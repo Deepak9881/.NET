@@ -1,0 +1,15 @@
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\Inheritance_demo.csproj.AssemblyReference.cache
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\Inheritance_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\Inheritance_demo.AssemblyInfoInputs.cache
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\Inheritance_demo.AssemblyInfo.cs
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\Inheritance_demo.csproj.CoreCompileInputs.cache
+C:\Dotnet\Day_4\Inheritance_demo\bin\Debug\net7.0\Inheritance_demo.exe
+C:\Dotnet\Day_4\Inheritance_demo\bin\Debug\net7.0\Inheritance_demo.deps.json
+C:\Dotnet\Day_4\Inheritance_demo\bin\Debug\net7.0\Inheritance_demo.runtimeconfig.json
+C:\Dotnet\Day_4\Inheritance_demo\bin\Debug\net7.0\Inheritance_demo.dll
+C:\Dotnet\Day_4\Inheritance_demo\bin\Debug\net7.0\Inheritance_demo.pdb
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\Inheritance_demo.dll
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\refint\Inheritance_demo.dll
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\Inheritance_demo.pdb
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\Inheritance_demo.genruntimeconfig.cache
+C:\Dotnet\Day_4\Inheritance_demo\obj\Debug\net7.0\ref\Inheritance_demo.dll
