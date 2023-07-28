@@ -1,0 +1,72 @@
+
+
+WITH DOCKER ====>
+
+
+	sudo apt update 
+
+	sudo apt install git
+	
+	mkdir "file_name"
+
+	cd file_name
+	
+	git clone "....path"
+	
+	cd path
+
+	docker -v
+	
+	sudo apt install docker.io
+
+	sudo systemctl status docker ----> ctrl+z
+	
+	sudo docker build -t "any_name" .
+
+	sudo docker images 
+
+	sudo docker run -d -p 8888:8888 (.."any_name")
+	
+	(To get Container ID) ---- >   sudo docker ps
+	(To Stop Docker Instance)--->  ls-a get repository 
+			
+	sudo docker stop (container ID)
+
+
+------------------------------------------------------------------------
+
+WITHOUT DOCKER ====>
+
+
+	sudo apt update 
+
+	sudo apt install git
+	
+	sudo apt install nodejs
+	
+	sudo apt install npm
+	
+	mkdir "file_name"
+	
+	cd "file_name"
+
+	git clone "....path"
+	
+	cd path
+
+	npm install express
+	
+	node server.js
+
+	
+
+
+
+
+
+
+
+
+
+
+
